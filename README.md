@@ -1,1 +1,1 @@
-# Aleo-dapp
+# Aleo-dappInitialize dapp boilerplate
