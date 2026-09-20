@@ -6,3 +6,4 @@ Fix record decryption
 Optimize proof verification
 Update SDK dependency
 Add error logging
+Final documentation update
